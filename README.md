@@ -3,7 +3,7 @@
 Overview:<br> 
 -A dataset was given for 6 countries of their GDPs and expected lifespans over a period of time.
 
-Goal:
--Find correlation between GDP and expected lifespan.
--Compare the countries.
--Provide any insights found from the created visualizations.
+Goal:<br>
+-Find correlation between GDP and expected lifespan.<br>
+-Compare the countries.<br>
+-Provide any insights found from the created visualizations.<br>
