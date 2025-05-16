@@ -1,6 +1,6 @@
 # GDP_Life_Expectancy_code_academy_project
 
-Overview: 
+Overview:<br> 
 -A dataset was given for 6 countries of their GDPs and expected lifespans over a period of time.
 
 Goal:
